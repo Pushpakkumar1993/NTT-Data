@@ -1,0 +1,784 @@
+{
+  "_id": "6315771058dceb8fd4bca7ab",
+  "wizard": {
+    "organizationType": "",
+    "industry": "",
+    "size": "",
+    "country": "",
+    "language": "",
+    "serverType": "",
+    "registerServer": true
+  },
+  "uniqueId": "6312d13c4ae4570001ba8d43",
+  "installedAt": "2022-09-03T04:00:19.199Z",
+  "version": "5.0.3",
+  "totalUsers": 2,
+  "activeUsers": 2,
+  "activeGuests": 0,
+  "nonActiveUsers": 0,
+  "appUsers": 0,
+  "onlineUsers": 1,
+  "awayUsers": 0,
+  "busyUsers": 0,
+  "totalConnectedUsers": 1,
+  "offlineUsers": 1,
+  "totalRooms": 1,
+  "userLanguages": {
+    "none": 2
+  },
+  "totalChannels": 1,
+  "totalPrivateGroups": 0,
+  "totalDirect": 0,
+  "totalLivechat": 0,
+  "totalDiscussions": 0,
+  "totalThreads": 0,
+  "totalLivechatVisitors": 0,
+  "totalLivechatAgents": 0,
+  "livechatEnabled": true,
+  "routingAlgorithm": "Auto_Selection",
+  "onHoldEnabled": false,
+  "lastChattedAgentPreferred": false,
+  "assignNewConversationsToContactManager": true,
+  "visitorAbandonment": "none",
+  "voipEnabled": false,
+  "omnichannelSources": [],
+  "departments": 0,
+  "emailInboxes": 0,
+  "BusinessHours": {
+    "total": 1,
+    "strategy": ""
+  },
+  "voipCalls": 0,
+  "voipExtensions": 0,
+  "totalChannelMessages": 0,
+  "chatsOnHold": 0,
+  "totalPrivateGroupMessages": 0,
+  "voipSuccessfulCalls": 0,
+  "voipErrorCalls": 0,
+  "voipOnHoldCalls": 0,
+  "totalDirectMessages": 0,
+  "totalLivechatMessages": 0,
+  "totalMessages": 0,
+  "lastLogin": "2022-09-03T07:41:02.271Z",
+  "federatedServers": 0,
+  "federatedUsers": 0,
+  "os": {
+    "type": "Linux",
+    "platform": "linux",
+    "arch": "x64",
+    "release": "5.4.0-60-generic",
+    "uptime": 51174522.68,
+    "loadavg": [
+      3.93,
+      3.62,
+      3.21
+    ],
+    "totalmem": 270446374912,
+    "freemem": 111601872896,
+    "cpus": [
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 5030685360,
+          "nice": 3430,
+          "sys": 641321780,
+          "idle": 43571920890,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4610174840,
+          "nice": 4700,
+          "sys": 608884490,
+          "idle": 45003912650,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 5017967290,
+          "nice": 4180,
+          "sys": 669273080,
+          "idle": 44281062520,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4657119000,
+          "nice": 3900,
+          "sys": 644029840,
+          "idle": 45217042660,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 5460384150,
+          "nice": 3370,
+          "sys": 692876240,
+          "idle": 43588523890,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4947503240,
+          "nice": 4520,
+          "sys": 650206660,
+          "idle": 44984513650,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 5555217160,
+          "nice": 2840,
+          "sys": 693554470,
+          "idle": 43468905400,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 5366098280,
+          "nice": 3950,
+          "sys": 675198540,
+          "idle": 44181835330,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2147,
+        "times": {
+          "user": 3960327800,
+          "nice": 11990,
+          "sys": 720281910,
+          "idle": 45970317570,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2131,
+        "times": {
+          "user": 3051252830,
+          "nice": 12140,
+          "sys": 647877270,
+          "idle": 47014280220,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2218,
+        "times": {
+          "user": 2751225120,
+          "nice": 11250,
+          "sys": 630679980,
+          "idle": 47360580250,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2159,
+        "times": {
+          "user": 2615915310,
+          "nice": 12680,
+          "sys": 622579640,
+          "idle": 47518806510,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2228,
+        "times": {
+          "user": 2535933320,
+          "nice": 12480,
+          "sys": 618054080,
+          "idle": 47614919200,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2237,
+        "times": {
+          "user": 2481227720,
+          "nice": 14670,
+          "sys": 615992630,
+          "idle": 47675443440,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2129,
+        "times": {
+          "user": 2422220670,
+          "nice": 13700,
+          "sys": 616350480,
+          "idle": 47736593410,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2151,
+        "times": {
+          "user": 2314127740,
+          "nice": 15500,
+          "sys": 618104340,
+          "idle": 47843240000,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4714572420,
+          "nice": 4260,
+          "sys": 631990270,
+          "idle": 45269865360,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4934560730,
+          "nice": 5090,
+          "sys": 644382920,
+          "idle": 44502742570,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4515383220,
+          "nice": 4840,
+          "sys": 609788760,
+          "idle": 45488247600,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4317505030,
+          "nice": 4030,
+          "sys": 594241410,
+          "idle": 45685255130,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4184651350,
+          "nice": 4000,
+          "sys": 581373210,
+          "idle": 45857035180,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4490020760,
+          "nice": 4090,
+          "sys": 602347880,
+          "idle": 45265320630,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4159150560,
+          "nice": 4490,
+          "sys": 575837360,
+          "idle": 45968728160,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2600,
+        "times": {
+          "user": 4958387500,
+          "nice": 3540,
+          "sys": 640239060,
+          "idle": 44523930570,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2231,
+        "times": {
+          "user": 2326465460,
+          "nice": 13660,
+          "sys": 628330460,
+          "idle": 47833573380,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2500,
+        "times": {
+          "user": 2307506770,
+          "nice": 11820,
+          "sys": 626996850,
+          "idle": 47850421940,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2252,
+        "times": {
+          "user": 2288568480,
+          "nice": 12560,
+          "sys": 625646540,
+          "idle": 47869435890,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2426,
+        "times": {
+          "user": 2275915030,
+          "nice": 12780,
+          "sys": 626939850,
+          "idle": 47877991690,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2257,
+        "times": {
+          "user": 2275760180,
+          "nice": 11550,
+          "sys": 625380660,
+          "idle": 47877582540,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2174,
+        "times": {
+          "user": 2356709900,
+          "nice": 11180,
+          "sys": 630531570,
+          "idle": 47781669040,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2010,
+        "times": {
+          "user": 3055861320,
+          "nice": 11540,
+          "sys": 676989140,
+          "idle": 46984865110,
+          "irq": 0
+        }
+      },
+      {
+        "model": "Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz",
+        "speed": 2231,
+        "times": {
+          "user": 6331846120,
+          "nice": 7960,
+          "sys": 923993230,
+          "idle": 43241311260,
+          "irq": 0
+        }
+      }
+    ]
+  },
+  "process": {
+    "nodeVersion": "v14.19.3",
+    "pid": 1,
+    "uptime": 173522.039846957
+  },
+  "deploy": {
+    "method": "docker",
+    "platform": "rocket-cloud"
+  },
+  "readReceiptsEnabled": false,
+  "readReceiptsDetailed": false,
+  "enterpriseReady": true,
+  "uploadsTotal": 0,
+  "migration": {
+    "_id": "control",
+    "locked": false,
+    "version": 279,
+    "buildAt": "2022-08-12T00:31:43.012Z",
+    "lockedAt": "2022-09-03T04:01:09.665Z"
+  },
+  "uploadsTotalSize": 0,
+  "instanceCount": 2,
+  "oplogEnabled": true,
+  "mongoVersion": "4.2.8",
+  "mongoStorageEngine": "wiredTiger",
+  "apps": {
+    "engineVersion": "1.33.0",
+    "enabled": true,
+    "totalInstalled": 0,
+    "totalActive": 0,
+    "totalFailed": 0
+  },
+  "uniqueUsersOfYesterday": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": []
+  },
+  "uniqueUsersOfLastMonth": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "roles": [
+          {
+            "role": "admin",
+            "count": 1,
+            "sessions": 5,
+            "time": 1175
+          }
+        ],
+        "count": 1,
+        "sessions": 5,
+        "time": 1175
+      }
+    ]
+  },
+  "uniqueDevicesOfLastWeek": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "count": 5,
+        "time": 1175,
+        "type": "mobile",
+        "name": "Chrome",
+        "version": "104.0.0"
+      }
+    ]
+  },
+  "uniqueOSOfYesterday": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": []
+  },
+  "uniqueDevicesOfLastMonth": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "count": 5,
+        "time": 1175,
+        "type": "mobile",
+        "name": "Chrome",
+        "version": "104.0.0"
+      }
+    ]
+  },
+  "uniqueOSOfLastWeek": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "count": 5,
+        "time": 1175,
+        "name": "Android",
+        "version": "12"
+      }
+    ]
+  },
+  "uniqueDevicesOfYesterday": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": []
+  },
+  "uniqueUsersOfLastWeek": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "roles": [
+          {
+            "role": "admin",
+            "count": 1,
+            "sessions": 5,
+            "time": 1175
+          }
+        ],
+        "count": 1,
+        "sessions": 5,
+        "time": 1175
+      }
+    ]
+  },
+  "uniqueOSOfLastMonth": {
+    "year": 2022,
+    "month": 9,
+    "day": 4,
+    "data": [
+      {
+        "count": 5,
+        "time": 1175,
+        "name": "Android",
+        "version": "12"
+      }
+    ]
+  },
+  "services": {
+    "ldap": {
+      "users": 0,
+      "enabled": false,
+      "loginFallback": false,
+      "encryption": "plain",
+      "mergeUsers": false,
+      "syncRoles": false,
+      "syncRolesAutoRemove": false,
+      "syncData": false,
+      "syncChannels": false,
+      "syncAvatar": true,
+      "groupFilter": false,
+      "backgroundSync": {
+        "enabled": false,
+        "interval": "Every 24 hours",
+        "newUsers": true,
+        "existingUsers": true
+      },
+      "ee": {
+        "syncActiveState": "disable",
+        "syncTeams": false,
+        "syncRoles": false
+      }
+    },
+    "saml": {
+      "enabled": false,
+      "users": 0,
+      "signatureValidationType": "All",
+      "generateUsername": false,
+      "updateSubscriptionsOnLogin": false,
+      "syncRoles": false
+    },
+    "cas": {
+      "enabled": false,
+      "users": 0,
+      "allowUserCreation": true,
+      "alwaysSyncUserData": true
+    },
+    "oauth": {
+      "apple": {
+        "enabled": false,
+        "users": 0
+      },
+      "dolphin": {
+        "enabled": false,
+        "users": 0
+      },
+      "drupal": {
+        "enabled": false,
+        "users": 0
+      },
+      "facebook": {
+        "enabled": false,
+        "users": 0
+      },
+      "github": {
+        "enabled": false,
+        "users": 0
+      },
+      "githubEnterprise": {
+        "enabled": false,
+        "users": 0
+      },
+      "gitlab": {
+        "enabled": false,
+        "users": 0
+      },
+      "google": {
+        "enabled": false,
+        "users": 0
+      },
+      "linkedin": {
+        "enabled": false,
+        "users": 0
+      },
+      "meteor": {
+        "enabled": false,
+        "users": 0
+      },
+      "nextcloud": {
+        "enabled": false,
+        "users": 0
+      },
+      "tokenpass": {
+        "enabled": false,
+        "users": 0
+      },
+      "twitter": {
+        "enabled": false,
+        "users": 0
+      },
+      "wordpress": {
+        "enabled": false,
+        "users": 0
+      },
+      "custom": {}
+    }
+  },
+  "importer": {
+    "totalCSVImportedUsers": 0,
+    "totalHipchatEnterpriseImportedUsers": 0,
+    "totalSlackImportedUsers": 0,
+    "totalSlackUsersImportedUsers": 0
+  },
+  "videoConf": {
+    "videoConference": {
+      "started": 0,
+      "ended": 0
+    },
+    "direct": {
+      "calling": 0,
+      "started": 0,
+      "ended": 0
+    },
+    "livechat": {
+      "started": 0,
+      "ended": 0
+    },
+    "settings": {
+      "provider": "",
+      "dms": true,
+      "channels": true,
+      "groups": true,
+      "teams": true
+    }
+  },
+  "dashboardCount": 0,
+  "messageAuditApply": 0,
+  "messageAuditLoad": 0,
+  "joinJitsiButton": 0,
+  "slashCommandsJitsi": 0,
+  "settings": {},
+  "pushQueue": 0,
+  "integrations": {
+    "totalIntegrations": 0,
+    "totalIncoming": 0,
+    "totalIncomingActive": 0,
+    "totalOutgoing": 0,
+    "totalOutgoingActive": 0,
+    "totalWithScriptEnabled": 0
+  },
+  "enterprise": {
+    "modules": [
+      "auditing",
+      "canned-responses",
+      "ldap-enterprise",
+      "livechat-enterprise",
+      "voip-enterprise",
+      "omnichannel-mobile-enterprise",
+      "engagement-dashboard",
+      "push-privacy",
+      "scalability",
+      "teams-mention",
+      "saml-enterprise",
+      "oauth-enterprise",
+      "device-management",
+      "federation",
+      "videoconference-enterprise"
+    ],
+    "tags": [
+      "Enterprise"
+    ],
+    "livechatTags": 0,
+    "seatRequests": 0,
+    "cannedResponses": 0,
+    "priorities": 0,
+    "businessUnits": 0
+  },
+  "totalOTRRooms": 0,
+  "totalOTR": 0,
+  "totalBroadcastRooms": 0,
+  "teams": {
+    "totalTeams": 0,
+    "totalRoomsInsideTeams": 0,
+    "totalDefaultRoomsInsideTeams": 0
+  },
+  "totalRoomsWithActiveLivestream": 0,
+  "totalTriggeredEmails": 1,
+  "totalRoomsWithStarred": 0,
+  "totalRoomsWithPinned": 0,
+  "totalUserTOTP": 0,
+  "totalUserEmail2fa": 0,
+  "totalPinned": 0,
+  "totalStarred": 0,
+  "totalLinkInvitation": 0,
+  "totalLinkInvitationUses": 0,
+  "totalEmailInvitation": 0,
+  "totalE2ERooms": 0,
+  "logoChange": false,
+  "showHomeButton": true,
+  "totalEncryptedMessages": 0,
+  "totalManuallyAddedUsers": 0,
+  "totalSubscriptionRoles": 3,
+  "totalUserRoles": 11,
+  "totalWebRTCCalls": 0,
+  "matrixBridgeEnabled": false,
+  "uncaughtExceptionsCount": 0,
+  "homeTitleChanged": false,
+  "homeBodyChanged": false,
+  "customCSSChanged": false,
+  "onLogoutCustomScriptChanged": false,
+  "loggedOutCustomScriptChanged": false,
+  "loggedInCustomScriptChanged": false,
+  "createdAt": "2022-09-05T04:12:00.284Z",
+  "_updatedAt": "2022-09-05T04:12:00.285Z",
+  "success": true
+}
